@@ -1,0 +1,5 @@
+
+{
+  "name": "Online Exam Builder",
+  "description": "An application to create and take multiple-choice question (MCQ) exams. Users can upload a list of questions in JSON format, take the exam, and view their results immediately."
+}
